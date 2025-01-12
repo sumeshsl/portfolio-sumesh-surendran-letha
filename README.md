@@ -11,7 +11,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 - ![Skills Showcase](https://img.shields.io/badge/Skills_Showcase-2196F3?style=for-the-badge&logo=code&logoColor=white) 
-- [Skills](https://github.com/sumeshsl/skills-repo)
+- [Skills detailed](https://github.com/sumeshsl/skills-repo)
 
 ## Certifications
 - ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E)
