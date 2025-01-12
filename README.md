@@ -19,4 +19,4 @@
   [View Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/8d1f31c870fd4ae290325b3c19bbcbd1)
 
 - [Certifications Repository](https://github.com/sumeshsl/certifications)
-- [Skills Showcase](https://github.com/sumeshsl/skills-showcase)
+- [Skills](https://github.com/sumeshsl/skills-repo)
