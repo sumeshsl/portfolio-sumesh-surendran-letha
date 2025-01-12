@@ -13,7 +13,7 @@
 
 ## Certifications
 - ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E)
-  [View Credential]([https://www.credly.com/badges/XXXX](https://cp.certmetrics.com/amazon/en/public/verify/credential/7e5b2384cf90479184d5148fadf8e55e))
+  [View Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/7e5b2384cf90479184d5148fadf8e55e)
 
 - ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E)
   [View Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/8d1f31c870fd4ae290325b3c19bbcbd1)
