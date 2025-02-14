@@ -3,7 +3,7 @@
 🚀 Passionate about building scalable, secure, and efficient solutions.
 
 ### 🌟 Featured Projects
-- **[WeatherAPP](https://github.com/sumeshsl/weather-app-demo):** Cloud-based Weather app (AWS, Angular).
+- **[AIAgent](https://github.com/sumeshsl/ConvoSync):** AI-based Conversation app (Python, Mongo, Docker, Kubernetes).
 
 ### 💻 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
