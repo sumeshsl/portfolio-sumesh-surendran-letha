@@ -4,6 +4,7 @@
 
 ### 🌟 Featured Projects
 - **[AIAgent](https://github.com/sumeshsl/ConvoSync):** AI-based Conversation app (Python, Mongo, Docker, Kubernetes).
+- **[TrainMask3D](https://github.com/sumeshsl/traincorndata):** Training neutral networks using annotations (Python, Mask-RCNN).
 
 ### 💻 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
